@@ -27,7 +27,7 @@ int pop()
 
 int main()
 {
-    int a, b, temp;
+    int num1,num2,a,b, temp;
 
     printf("Enter a number 1 : ");
     scanf("%d",&num1);
